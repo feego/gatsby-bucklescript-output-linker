@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-bucklescript-output-linker",
+  "version": "0.0.3",
+  "description": "Plugin that makes Gatsby aware of GraphQL queries on your ReasonML codebase when it lives outside the src directory.",
+  "author": "Rui Monteiro",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:feego/gatsby-bucklescript-output-linker.git"
+  },
+  "license": "MIT",
+  "main": "src/link.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-transformer-plugin",
+    "reasonml",
+    "graphql"
+  ]
+}
